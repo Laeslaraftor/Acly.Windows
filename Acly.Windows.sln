@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Acly.Windows", "Acly.Windows\Acly.Windows.csproj", "{0737433F-318B-493C-BA73-B08A6DC52394}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0737433F-318B-493C-BA73-B08A6DC52394}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0737433F-318B-493C-BA73-B08A6DC52394}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0737433F-318B-493C-BA73-B08A6DC52394}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0737433F-318B-493C-BA73-B08A6DC52394}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {522B3771-3362-481A-A55F-37E74E063128}
+	EndGlobalSection
+EndGlobal
